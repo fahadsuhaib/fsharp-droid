@@ -41,4 +41,4 @@ printfn "%s" oauth_token_secret`
 
 - Replace these keys in the project and run, you should be able to see the tweets appearing in your screen!
 
-![https://github.com/fahadsuhaib/fsharp-droid/blob/master/output.png](output.png)
+![](https://github.com/fahadsuhaib/fsharp-droid/blob/master/output.png)
